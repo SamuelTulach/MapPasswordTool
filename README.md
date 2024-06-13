@@ -13,5 +13,8 @@ For the executable version (.exe file) that you can run directly, please visit t
 3. Click the program's only button.
 4. Choose a new filename and location to save the modified map.
 
+## Video
+[![video](https://img.youtube.com/vi/u6Hqw3NuzgE/0.jpg)](https://www.youtube.com/watch?v=u6Hqw3NuzgE)
+
 ## License
 This project is licensed under [GNU GPL v3](https://www.gnu.org/licenses/gpl-3.0.en.html).
